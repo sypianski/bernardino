@@ -1,4 +1,4 @@
-# Bernardino
+# Kolbergilo
 
 Aplikacja desktopowa do transkrypcji wywiadów badawczych na modelach lokalnych: znaczniki czasu, rozpoznawanie mówców, korekta niepewnych słów. Nagrania i teksty zostają na Twoim komputerze.
 
